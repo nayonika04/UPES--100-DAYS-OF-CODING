@@ -13,11 +13,12 @@ int main() {
     area = length * breadth
     perimeter = 2 * (length + breadth);
 
-    // Display the calculated area
+    
     printf("Area of the rectangle: %.2f\n", area);
 
-    // Display the calculated perimeter
+    
     printf("Perimeter of the rectangle: %.2f\n", perimeter);
 
     return 0;
+
 }
